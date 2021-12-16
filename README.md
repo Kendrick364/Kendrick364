@@ -8,7 +8,7 @@
   
   <em>
   Learning JavaScript, and some C++.</br>
- Classic phobos skidder, i dont do anything important only do revamps skidding clients
+  I dont do anything important only do revamps skidding clients
   </em></br></br>
   
   ### More information about me
