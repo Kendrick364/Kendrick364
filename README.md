@@ -14,7 +14,6 @@
   ### More information about me
   
   <em>I'm from Chile. <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/cl.png" width="25"></br>
-  Actually, 15 years old.</br>
 
 
   <a href="https://github.com/Khali364"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kendrick364&show_icons=true&theme=radical" /></a>
